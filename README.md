@@ -1,5 +1,5 @@
 # syllable-classification-in-EEG-Signal
-Classifying 11-syllable from imagined speech EEG signal.
+Classifying 11-syllables from imagined speech EEG signal.
 
 1. First preprocessing is done on the data to remove artifacts.
 
