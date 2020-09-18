@@ -7,4 +7,4 @@ Classifying 11-syllables from imagined speech EEG signal.
 
 3. A Multi-layer perceptron is trained and used for the prediction of the classes.
 
-Dataset used in this project - KARA ONE(Link-http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html)
+  Dataset used in this project - KARA ONE(Link-http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html)
